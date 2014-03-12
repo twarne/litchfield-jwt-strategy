@@ -1,0 +1,24 @@
+{
+  "name": "litchfield-jwt-strategy",
+  "version": "0.1.0",
+  "description": "JWT Strategy for Passport",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/twarne/litchfield-jwt-strategy"
+  },
+  "keywords": [
+    "passport",
+    "jwt",
+    "authentication"
+  ],
+  "author": "Tom Warne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twarne/litchfield-jwt-strategy/issues"
+  },
+  "homepage": "https://github.com/twarne/litchfield-jwt-strategy"
+}
