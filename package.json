@@ -16,9 +16,18 @@
     "authentication"
   ],
   "author": "Tom Warne",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/twarne/litchfield-jwt-strategy/issues"
   },
-  "homepage": "https://github.com/twarne/litchfield-jwt-strategy"
+  "homepage": "https://github.com/twarne/litchfield-jwt-strategy",
+  "dependencies": {
+    "passport-strategy": "~1.0.0",
+    "green-jwt": "0.0.8-alpha"
+  },
+  "dev-dependencies": {
+    "grunt": "~0.4.4",
+    "grunt-contrib-jshint": "~0.9.2",
+    "grunt-mocha-cli": "~1.7.0"
+  }
 }
